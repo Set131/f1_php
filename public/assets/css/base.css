@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-image: url('https://images2.alphacoders.com/135/1352897.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#form1{
+    width: auto;
+    margin: 25px auto;
+    border: 1px solid grey;
+    border-radius: 15px;
+    padding: 15px 30px;
+    background-color: whitesmoke;
+    box-shadow: 10px 10px 30px silver;
+}
+
+.panel{
+    text-align: left;
+}
+
+label{
+    font-style: italic;
+    font-size: 12pt;
+    margin-bottom: 0px;
+}
+.err{
+    color:red;
+}
+.buttons{
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+.buttons input{
+    width: 120px;
+}
